@@ -1,4 +1,4 @@
-# Django Study
+# 교환 일기 서비스
 ## Cookie
 ## Session
 ## JWT
